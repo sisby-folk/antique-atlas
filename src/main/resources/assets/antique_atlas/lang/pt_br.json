@@ -4,6 +4,7 @@
 	"gui.antique_atlas.delMarker": "Excluir marcador",
 	"gui.antique_atlas.followPlayer": "Centralizar no jogador",
 	"gui.antique_atlas.hideMarkers": "Ocultar marcadores",
+	"gui.antique_atlas.resetScale": "Redefinir escala",
 	"gui.antique_atlas.showMarkers": "Mostrar marcadores",
 	"gui.antique_atlas.marker.label": "Título",
 	"structure.tag.minecraft.village": "Vila",

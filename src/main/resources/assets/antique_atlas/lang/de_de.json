@@ -4,6 +4,7 @@
 	"gui.antique_atlas.delMarker": "Markierung löschen",
 	"gui.antique_atlas.followPlayer": "Spieler folgen",
 	"gui.antique_atlas.hideMarkers": "Markierungen verstecken",
+	"gui.antique_atlas.resetScale": "Skalierung zurücksetzen",
 	"gui.antique_atlas.showMarkers": "Markierungen zeigen",
 	"gui.antique_atlas.marker.label": "Bezeichnung",
 	"structure.tag.minecraft.village": "Dorf",

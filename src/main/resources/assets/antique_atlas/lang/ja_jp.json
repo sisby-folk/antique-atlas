@@ -4,6 +4,7 @@
 	"gui.antique_atlas.delMarker": "印を消す",
 	"gui.antique_atlas.followPlayer": "プレイヤーに焦点を当てる",
 	"gui.antique_atlas.hideMarkers": "印を隠す",
+	"gui.antique_atlas.resetScale": "スケールをリセット",
 	"gui.antique_atlas.showMarkers": "印を表す",
 	"gui.antique_atlas.marker.label": "ラベル",
 	"structure.tag.minecraft.village": "村",
