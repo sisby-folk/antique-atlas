@@ -41,7 +41,7 @@
 	"gui.antique_atlas.marker.death.euphemisms.verb.8": "Destruido",
 	"gui.antique_atlas.marker.death.euphemisms.verb.9": "Azotado",
 	"gui.antique_atlas.marker.death.euphemisms.verb.10": "Acabado",
-    "item.antique_atlas.atlas": "Atlas antiguo",
+    "item.antique_atlas.atlas": "Antique Atlas",
     "item.antique_atlas.atlas.lore": "Muestra tu entorno cuando lo sostenés.",
     "item.antique_atlas.atlas.hint": "Obtenible en supervivencia renombrando un libro \"%s\"."
 }
